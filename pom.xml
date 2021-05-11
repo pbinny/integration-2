@@ -13,7 +13,7 @@
     <version>1.0.1</version>
     <packaging>pom</packaging>
     <name>spring-int-pubsub-broker</name>
-    <description>Spring Integration: Getting Started - 10 - Handling Errors</description>
+    <description>Spring Integration: Publish / Subscribe Channel - Handling Errors</description>
 
     <properties>
         <java.version>11</java.version>
