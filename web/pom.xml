@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.nims.demo</groupId>
-        <artifactId>ps-spring-int-gs-10-errors</artifactId>
+        <artifactId>spring-int-pubsub-broker</artifactId>
         <version>1.0.1</version>
     </parent>
     <artifactId>web</artifactId>
